@@ -18,4 +18,5 @@ See the [GenericFrameRecorder](https://github.com/Unity-Technologies/GenericFram
 ### Current limitations
 
 * Only available in editor.
+
 * Only supports constant frame rate.
